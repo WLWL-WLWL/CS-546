@@ -1,2 +1,2 @@
 # CS-546
-SIT CS-546 Web programing
+SIT CS-546 Web programming
