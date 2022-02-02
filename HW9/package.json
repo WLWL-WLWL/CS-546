@@ -1,0 +1,14 @@
+{
+    "name": "lab9",
+    "version": "1.0.0",
+    "description": "cs546 lab9",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "WELI LIU 10471020",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}

@@ -1,0 +1,51 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form div {
+    margin: 10px;
+}
+
+button {
+    border-radius: 5px;
+    border: black 1px solid;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.private .logout {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.errorMessage {
+    font-size: medium;
+    font-weight: 700;
+    color: red;
+}
+
+a:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    font-size: large;
+    font-weight: 800;
+}
